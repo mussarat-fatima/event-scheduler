@@ -1,0 +1,4 @@
+Musa Ahmed,2325011024,BSSE,03342222412,Pythonista
+Shaniya Akmal,20235011022,BBA,03214348767,Pythonista
+Ayesha Iqbal,23251101104,BSCS,033376512333,Jacob's Lecture
+muhammad zubair,608087,it,000000000,Pythonista

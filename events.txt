@@ -1,0 +1,2 @@
+Pythonista,Minahil Waqas,Workshop,2024-06-11,09:15,11:15,20,ITB lab 1
+Jacob's Lecture,Dr Hadia Khalid,Lecture,2024-06-13,08:15,10:15,134,Auditorium
